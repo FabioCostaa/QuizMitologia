@@ -1,3 +1,3 @@
 # QuizMitologia
 
-Quiz feito para a plataforma
+Quiz feito para a plataforma!
